@@ -1,2 +1,3 @@
 # shortcutmania
-windowsの
+### ファイルサーバー接続
+windows ＋ R
