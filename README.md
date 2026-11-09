@@ -1,0 +1,2 @@
+# shortcutmania
+windowsの
